@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\Solution\Project_test\bin\Debug\Project_test.exe.config
+C:\Users\admin\Documents\Solution\Project_test\bin\Debug\Project_test.exe
+C:\Users\admin\Documents\Solution\Project_test\bin\Debug\Project_test.pdb
+C:\Users\admin\Documents\Solution\Project_test\obj\Debug\Project_test.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Solution\Project_test\obj\Debug\Project_test.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\Solution\Project_test\obj\Debug\Project_test.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Solution\Project_test\obj\Debug\Project_test.exe
+C:\Users\admin\Documents\Solution\Project_test\obj\Debug\Project_test.pdb
